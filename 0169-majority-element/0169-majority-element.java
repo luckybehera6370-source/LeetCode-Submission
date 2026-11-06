@@ -6,13 +6,12 @@ class Solution {
 
         for(int i=0;i<n;i++){
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-        }
-
-        for(Integer k : map.keySet()){
-            if(map.get(k) > n/2){
-                return k;
+            if(map.get(nums[i]) > n/2){
+                return nums[i];
             }
         }
+
+        
         return -1;
     }
 }
