@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0202-happy-number) |
 | [1390-four-divisors](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/1390-four-divisors) |
 ## Prime Factorization
 |  |
@@ -34,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/1390-four-divisors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
