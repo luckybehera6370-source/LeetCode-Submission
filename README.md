@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 | [1390-four-divisors](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/1390-four-divisors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/luckybehera6370-source/LeetCode-Submission/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
